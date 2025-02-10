@@ -1,7 +1,5 @@
 # 👋 hello I am Vaibhav, Nice to Meet You :)
 
-[![GitHub](https://img.shields.io/badge/GitHub-vaibhavgaikwad7774-black?style=for-the-badge&logo=github)](https://github.com/vaibhavgaikwad7774)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Gaikwad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhavgaikwad7774)
 
 ## About Me
 
