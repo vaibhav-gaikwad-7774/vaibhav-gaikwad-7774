@@ -1,18 +1,13 @@
-# 👋 hello I am Vaibhav, Nice to Meet You :)
-
-
 ## About Me
 
-- I’m currently working as an **TCE @ GeeksforGeeks**
+- I’m currently working as an **MTS @ GeeksforGeeks**
 - Skilled in **Java, Selenium, API Testing, Web & Mobile Testing**
-- Exploring **Java With SpringBoot**
+- Exploring **Java With Software Testing and Related Tools**
 - Passionate about **Java and Test Automation API and Frameworks**
-- Fun fact: I love debugging code & writing tech blogs
 
 ##  Skills & Proficiency
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Advanced Java](https://img.shields.io/badge/Advanced%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-1F618D?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6A1B9A?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -38,15 +33,3 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-##  Technical Content Skills
-
-![SEO Optimization](https://img.shields.io/badge/SEO%20Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Technical Writing](https://img.shields.io/badge/Technical%20Writing-9C27B0?style=for-the-badge)
-![Content Optimization](https://img.shields.io/badge/Content%20Optimization-FF9800?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-4CAF50?style=for-the-badge)
-![Article Structuring](https://img.shields.io/badge/Article%20Structuring-673AB7?style=for-the-badge)
-![Tutorial Creation](https://img.shields.io/badge/Tutorial%20Creation-FFEB3B?style=for-the-badge)
-![Code Optimization](https://img.shields.io/badge/Code%20Optimization-2196F3?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge)
-![Debugging Examples](https://img.shields.io/badge/Debugging%20Examples-795548?style=for-the-badge)
