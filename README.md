@@ -1,4 +1,4 @@
-## 👨‍💻 About Me  
+## About Me  
 
 - Currently working as **Member of Technical Staff (Software Tester) @ GeeksforGeeks**  
 - 1.5 years of experience in **Manual & Automation Testing**  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Skills & Proficiency  
+## Skills & Proficiency  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6A1B9A?style=for-the-badge)  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tools & Platforms  
+## Tools & Platforms  
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-0052CC?style=for-the-badge)  
